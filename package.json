@@ -1,0 +1,16 @@
+{
+	"name": "html2psd",
+	"description": "Turn HTML into PSDs",
+	"version": "0.0.0",
+	"private": true,
+	"engines": {
+		"node": "0.8.x",
+		"npm": "1.1.x"
+	},
+	"devDependencies": {
+	},
+	"dependencies": {
+		"phantom": "0.5.1",
+		"node-phantom": "0.2.3"
+	}
+}
